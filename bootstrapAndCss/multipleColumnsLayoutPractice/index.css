@@ -1,0 +1,25 @@
+.card-container {
+    padding: 8px;
+    font-family: "Roboto";
+}
+
+.card-container-1 {
+    background-color: #ffcccb;
+}
+
+.card-container-2 {
+    background-color: #add8e6;
+}
+
+.card-container-3 {
+    background-color: #90ee90;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 16px;
+}
